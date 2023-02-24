@@ -1,3 +1,5 @@
+import streamlit as st
+
 # Define a dictionary containing information about the products
 # Define a dictionary containing information about the products
 products = {
