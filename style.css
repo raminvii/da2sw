@@ -1,0 +1,86 @@
+/* Set the background color for the entire page */
+body {
+    background-color: #a19696;
+}
+
+/* Style the header section */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+/* Style the h1 and h2 tags in the header section */
+header h1, header h2 {
+    margin: 0;
+}
+
+/* Style the links in the header section */
+header a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Style the section headers */
+section header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+}
+
+/* Style the h3 tags in the product section */
+.product h3 {
+    margin: 10px 0 0;
+}
+
+/* Style the images in the product section */
+.product img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Style the buttons in the product section */
+.product button {
+    display: block;
+    margin: 10px auto;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* Style the customer reviews section */
+.customer-reviews {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Style the quotes in the customer reviews section */
+.customer-reviews blockquote {
+    font-style: italic;
+    font-size: 18px;
+}
+
+/* Style the about us section */
+.about-us {
+    padding: 20px;
+}
+
+/* Style the connect with us section */
+.connect-with-us {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+/* Style the links in the connect with us section */
+.connect-with-us a {
+    display: block;
+    margin-bottom: 10px;
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+}
